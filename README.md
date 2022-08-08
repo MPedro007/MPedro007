@@ -1,25 +1,15 @@
+# Hi, I'm Marcos Pedro! :D
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center"> Welcome to my profile!!! </h1>
-    <p>I am a student of Software Engineering</p>
-    <p>In moment i study:</p>
-
-</body>
-</html>
+### Social Medias
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/MPedro007)](https://github.com/MPedro007)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/marcospcmalmeida/)](https://www.linkedin.com/in/marcospcmalmeida/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/mpedro_costa/)](https://www.instagram.com/mpedro_costa/)
 
 
 
+### About me
+- [Uniasselvi University](https://portal.uniasselvi.com.br/graduacao/rs/capao-da-canoa/engenharia-de-software?place=capao-da-canoa-rs&modality=ead&gclid=CjwKCAjw6MKXBhA5EiwANWLODJ-TNy31KiTEAK-3VpgZZ-gl0p6edbB8Cc6DBZmeLA3oW_e8OUZ4PxoCc5gQAvD_BwE) :mortar_board: I'm a {student of Software Engineering}.
+- [#TeuFuturo](https://teufuturo.io/) 💻 - Web development course.
+- [Download My Resume Here](https://drive.google.com/file/d/1hWBWxncfcqez7vo0WdR-M5BfYN04DTrk/view)📜
 
-
-
-![200px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/65326285/182996679-de385590-e917-4a45-bd2c-d785010929ba.png)
-![css](https://user-images.githubusercontent.com/65326285/182996687-b08add41-cc0f-4e7e-b6ce-f61f5c6c6f77.png)
-![JS](https://user-images.githubusercontent.com/65326285/182997990-43bac26f-4d39-49bd-8c4a-924aca0ca814.png)
 
