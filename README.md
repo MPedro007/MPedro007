@@ -24,8 +24,4 @@
 
 <br/>
 
-<a href="https://github.com/MPedro007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPedro007&theme=dracula&show_icons=true" />
-</a>
 
-<br/>
